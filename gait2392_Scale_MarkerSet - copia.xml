@@ -180,7 +180,7 @@
 				<!--Body segment in the model on which the marker resides.-->
 				<body> tibia_r </body>
 				<!--Location of a marker on the body segment.-->
-				<location>       0.08000000      -0.65000000       0.00470000 </location>
+				<location>       0.08000000      -0.30000000       0.00470000 </location>
 				<!--Flag (true or false) specifying whether or not a marker should be kept
 				    fixed in the marker placement step.  i.e. If false, the marker is
 				    allowed to move.-->
@@ -528,7 +528,7 @@
 				<!--Body segment in the model on which the marker resides.-->
 				<body> tibia_l </body>
 				<!--Location of a marker on the body segment.-->
-				<location>       0.08000000      -0.55000000       -0.00470000 </location>
+				<location>       0.08000000      -0.20000000       -0.00470000 </location>
 				<!--Flag (true or false) specifying whether or not a marker should be kept
 				    fixed in the marker placement step.  i.e. If false, the marker is
 				    allowed to move.-->
