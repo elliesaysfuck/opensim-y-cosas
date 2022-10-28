@@ -468,7 +468,7 @@
 		</Marker>
 		<Marker name="LGT">
 				<!--Body segment in the model on which the marker resides.-->
-				<body> femur_r </body>
+				<body> femur_l </body>
 				<!--Location of a marker on the body segment.-->
 				<location>       -0.0170714      -0.0249624       -0.06400000 </location>
 				<!--Flag (true or false) specifying whether or not a marker should be kept
