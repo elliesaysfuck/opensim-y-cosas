@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSimDocument Version="20302">
-	<MarkerSet name="gait2392_Scale">
+	<MarkerSet name="rizzoli lower body protocol">
 	<objects>
 		<Marker name="RASIS">
 				<!--Body segment in the model on which the marker resides.-->
